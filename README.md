@@ -1,3 +1,4 @@
 # hello-world
-hello world project
-i am a software developer
+hello world project.
+
+I am a software developer
